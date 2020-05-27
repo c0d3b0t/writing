@@ -1,3 +1,5 @@
+> This article is published also on [DEV Community](https://dev.to/c0d3b0t/build-your-own-penetration-testing-lab-with-aws-kali-linux-and-owasp-zap-getting-started-4083)
+
 > Build your own penetration testing lab with AWS... or spend ton of money on various ~~expensive~~ scan services.
 
 Hello everyone! 
