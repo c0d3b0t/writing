@@ -4,8 +4,6 @@
 
 ## Intro
 
-Hello everyone!
-
 Some time ago I've decided to start learning Swift by writing posts about it. So, this is the first post...
 
 I'm not trying to write "tutorials", it's not true. These posts are just my thoughts on electronic paper for learning purposes. Though I hope that someone will find them to be useful.
